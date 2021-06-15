@@ -1,2 +1,0 @@
-# afrotc-pubs
-# afrotc-pubs
