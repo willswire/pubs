@@ -18,7 +18,7 @@ Side-loaded, hand-jammed pubs for the [afiexplorer.com](https://afiexplorer.com/
   - JTR: THE JOINT TRAVEL REGULATIONS, CHAPTERS 1-6
   - DTS: DEFENSE TRAVEL SYSTEM REGULATIONS
   - GTCC: GOVERNMENT TRAVEL CHARGE CARD REGULATIONS 
--  Tongue and Quill Templates (All Current as of 10 NOV 2020)
+- Tongue and Quill Templates (All Current as of 10 NOV 2020)
   - TEMPLATE USER GUIDE
   - PERSONAL LETTER TEMPLATE
   - OFFICIAL MEMORANDUM TEMPLATE
@@ -27,4 +27,4 @@ Side-loaded, hand-jammed pubs for the [afiexplorer.com](https://afiexplorer.com/
   - POSITION PAPER TEMPLATE
   - BULLET BACKGROUND PAPER TEMPLATE
   - POINT PAPER TEMPLATE
-  - TALKING PAPER TEMPLATE
+  - TALKING PAPER TEMPLAT
